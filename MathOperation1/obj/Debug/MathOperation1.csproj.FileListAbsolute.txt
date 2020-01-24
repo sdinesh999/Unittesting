@@ -1,0 +1,5 @@
+C:\Users\Dinesh_Singawaram\source\repos\MathOperation\MathOperation1\MathOperation1\bin\Debug\MathOperation1.dll
+C:\Users\Dinesh_Singawaram\source\repos\MathOperation\MathOperation1\MathOperation1\bin\Debug\MathOperation1.pdb
+C:\Users\Dinesh_Singawaram\source\repos\MathOperation\MathOperation1\MathOperation1\obj\Debug\MathOperation1.csprojAssemblyReference.cache
+C:\Users\Dinesh_Singawaram\source\repos\MathOperation\MathOperation1\MathOperation1\obj\Debug\MathOperation1.dll
+C:\Users\Dinesh_Singawaram\source\repos\MathOperation\MathOperation1\MathOperation1\obj\Debug\MathOperation1.pdb
